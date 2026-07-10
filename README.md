@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="./assets/Animation1-compressed.gif" width="100%" alt="Rahul Singh Animated Banner">
-</p>
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Rahul%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Full%20Stack%20Developer%20|%20Prompt%20Engineer&descAlignY=58"/>
