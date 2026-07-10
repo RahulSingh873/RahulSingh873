@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Rahul;AI+Developer;Full+Stack+Learner;Open+Source+Contributor" />
+</p>
 
 <!--
 **RahulSingh873/RahulSingh873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io">
-  <img src="https://demolab.com!" alt="Typing SVG" />
-</a>
