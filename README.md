@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Rahul;AI+Developer;Full+Stack+Learner;Open+Source+Contributor" />
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake.svg">
+  </picture>
+</p>
