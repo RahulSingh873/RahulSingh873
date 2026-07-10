@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=glass&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Rahul%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18" />
+</p>
