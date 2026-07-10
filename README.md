@@ -74,14 +74,6 @@ Here are some ideas to get you started:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulSingh873&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
