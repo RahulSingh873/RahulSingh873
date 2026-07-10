@@ -61,18 +61,6 @@ Here are some ideas to get you started:
 
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahulSingh873&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSingh873&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 
 ---
 
@@ -89,11 +77,8 @@ Here are some ideas to get you started:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RahulSingh873&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulSingh873&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
-
 
 ---
 
