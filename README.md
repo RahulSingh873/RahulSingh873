@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Rahul Singh Animated Banner">
+  <img src="./assets/Animation1-compressed.gif" width="100%" alt="Rahul Singh Animated Banner">
 </p>
 
 ---
