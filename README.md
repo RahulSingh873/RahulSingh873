@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glass&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Rahul%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Rahul;AI+Developer;Full+Stack+Learner;Open+Source+Contributor" />
 </p>
