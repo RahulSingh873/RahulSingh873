@@ -13,18 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Rahul;AI+Developer;Full+Stack+Learner;Open+Source+Contributor" />
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake.svg">
-  </picture>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glass&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Rahul%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20|%20Full%20Stack%20Learner%20|%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Rahul%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Full%20Stack%20Developer%20|%20Prompt%20Engineer&descAlignY=58"/>
 </p>
 
 <p align="center">
@@ -47,7 +38,7 @@ Here are some ideas to get you started:
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rahul-singh-754714332">
+<a href="https://www.linkedin.com/in/rahul-singh-754714332/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -66,7 +57,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode,figma,vercel,firebase,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,docker,linux,vscode,figma,postman,vercel,firebase&perline=8"/>
 
 </p>
 
@@ -76,9 +67,15 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulSingh873&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahulSingh873&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSingh873&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSingh873&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=RahulSingh873&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -110,6 +107,13 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulSingh873&theme=tokyo-night&hide_border=true"/>
 
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RahulSingh873/RahulSingh873/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -159,11 +163,7 @@ Here are some ideas to get you started:
 
 # 👀 Profile Views
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RahulSingh873&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=RahulSingh873&style=for-the-badge&color=blue"/>
 
 ---
 
@@ -175,6 +175,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=130&section=footer"/>
 
 </p>
